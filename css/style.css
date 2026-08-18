@@ -1,4 +1,6 @@
 /* Confifguração base */
 * {
     margin: 0;
+    acolchoamento: 0;
+    família de fontes: 'Interface de usuário Segoe',Tahoma,Genebra,Verdana,sem serifa;
 }
